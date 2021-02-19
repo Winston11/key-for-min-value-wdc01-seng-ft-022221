@@ -7,5 +7,5 @@ if name_hash == {}
   return nil
 else
   
-  
+  lowest
 end
